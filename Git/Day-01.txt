@@ -1,1 +1,2 @@
 This is day-01 task
+Welcome to day-01 github training
